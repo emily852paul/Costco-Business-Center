@@ -1,8 +1,3 @@
----
-
-### **README.md**
-
-```md
 # Costco Business Centers
 
 ## Description
